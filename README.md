@@ -1,5 +1,6 @@
-rethinkdb-ar-php
+RethinkDB AR in PHP
 ================
+http://php-rql.dnsalias.net/wiki/index.php/HomePage
 
 RethinkDB Active Record for PHP
 
