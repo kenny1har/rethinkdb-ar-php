@@ -1,8 +1,6 @@
-RethinkDB AR in PHP
+RethinkDB Active Record for PHP
 ================
 http://php-rql.dnsalias.net/wiki/index.php/HomePage
-
-RethinkDB Active Record for PHP
 
 Product.php
 ```
